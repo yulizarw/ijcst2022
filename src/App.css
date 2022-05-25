@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.font-link {
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+@font-face {
+  font-family: 'distant_galaxyregular';
+  src: url('./assets/fonts/DISTGRG_-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@import url('https://unpkg.com/leaflet@1.5.1/dist/leaflet.css');
+
+

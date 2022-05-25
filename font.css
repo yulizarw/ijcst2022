@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Wynford-line';
+    src: local('Wynford-line'),
+         url('./src/assets/fonts/wynford-font/misc/Wynford-Line-5751.woff2') format('woff2')
+    ;
+}
+
+@font-face {
+    font-family: 'Porticos';
+    src: local('Porticos'),
+        url('./src/assets/fonts/portico-cufonfonts/PorticoVintage.otf') format("truetype")
+    ;
+}
