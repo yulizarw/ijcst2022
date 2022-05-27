@@ -189,7 +189,7 @@ function Contacts() {
                     <Col lg="7" md="12">
                         {/* <h2 className="title" style={{ fontFamily: 'distant_galaxyregular' }}>Consortium</h2> */}
                         <h5 className="description" style={{ fontWeight: 'bold' }}>
-                            The IJCST Consortium consists of the following 14 Universities:
+                            The IJCST Consortium consists of the following 13 Universities:
                         </h5>
                     </Col>
 
@@ -207,7 +207,6 @@ function Contacts() {
                                 </div>
                                 <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done9.png").default}></img>
                             </div>
-
                             <div class="animated_badge animated_badge_1 hide">
                                 <div class="animated_stars">
                                     <div class="animated_star plus"></div>
@@ -216,64 +215,8 @@ function Contacts() {
                                     <div class="animated_star donut"></div>
                                     <div class="animated_star plus yellow"></div>
                                 </div>
-                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done3.png").default}></img>
+                                <img style={{ maxWidth: '75%', zIndex: '20' }} src={require("assets/logo/fix/done14.png").default}></img>
                             </div>
-
-                            <div class="animated_badge animated_badge_1 hide">
-                                <div class="animated_stars">
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut yellow"></div>
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut"></div>
-                                    <div class="animated_star plus yellow"></div>
-                                </div>
-                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done2.png").default}></img>
-                            </div>
-
-                            <div class="animated_badge animated_badge_1 hide">
-                                <div class="animated_stars">
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut yellow"></div>
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut"></div>
-                                    <div class="animated_star plus yellow"></div>
-                                </div>
-                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done4.png").default}></img>
-                            </div>
-
-                            <div class="animated_badge animated_badge_1 hide">
-                                <div class="animated_stars">
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut yellow"></div>
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut"></div>
-                                    <div class="animated_star plus yellow"></div>
-                                </div>
-                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done5.png").default}></img>
-                            </div>
-
-                            <div class="animated_badge animated_badge_1 hide">
-                                <div class="animated_stars">
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut yellow"></div>
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut"></div>
-                                    <div class="animated_star plus yellow"></div>
-                                </div>
-                                <img style={{ maxWidth: '75%', zIndex: '20' }} src={require("assets/logo/fix/done6.png").default}></img>
-                            </div>
-
-                            <div class="animated_badge animated_badge_1 hide">
-                                <div class="animated_stars">
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut yellow"></div>
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut"></div>
-                                    <div class="animated_star plus yellow"></div>
-                                </div>
-                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done.png").default}></img>
-                            </div>
-
                             <div class="animated_badge animated_badge_1 hide">
                                 <div class="animated_stars">
                                     <div class="animated_star plus"></div>
@@ -284,7 +227,36 @@ function Contacts() {
                                 </div>
                                 <img style={{ maxWidth: '73%', zIndex: '20' }} src={require("assets/logo/fix/done7.png").default}></img>
                             </div>
-
+                            <div class="animated_badge animated_badge_1 hide">
+                                <div class="animated_stars">
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut yellow"></div>
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut"></div>
+                                    <div class="animated_star plus yellow"></div>
+                                </div>
+                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done.png").default}></img>
+                            </div>
+                            <div class="animated_badge animated_badge_1 hide">
+                                <div class="animated_stars">
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut yellow"></div>
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut"></div>
+                                    <div class="animated_star plus yellow"></div>
+                                </div>
+                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done2.png").default}></img>
+                            </div>
+                            <div class="animated_badge animated_badge_1 hide">
+                                <div class="animated_stars">
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut yellow"></div>
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut"></div>
+                                    <div class="animated_star plus yellow"></div>
+                                </div>
+                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done5.png").default}></img>
+                            </div>
                             <div class="animated_badge animated_badge_1 hide">
                                 <div class="animated_stars">
                                     <div class="animated_star plus"></div>
@@ -304,8 +276,10 @@ function Contacts() {
                                     <div class="animated_star donut"></div>
                                     <div class="animated_star plus yellow"></div>
                                 </div>
-                                <img style={{ maxWidth: '69%', zIndex: '20' }} src={require("assets/logo/fix/done10.png").default}></img>
+                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done3.png").default}></img>
                             </div>
+
+                          
 
                             <div class="animated_badge animated_badge_1 hide">
                                 <div class="animated_stars">
@@ -315,7 +289,36 @@ function Contacts() {
                                     <div class="animated_star donut"></div>
                                     <div class="animated_star plus yellow"></div>
                                 </div>
-                                <img style={{ maxWidth: '75%', zIndex: '20' }} src={require("assets/logo/fix/done11.png").default}></img>
+                                <img style={{ maxWidth: '65%', zIndex: '20' }} src={require("assets/logo/fix/done4.png").default}></img>
+                            </div>
+
+                           
+
+                            <div class="animated_badge animated_badge_1 hide">
+                                <div class="animated_stars">
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut yellow"></div>
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut"></div>
+                                    <div class="animated_star plus yellow"></div>
+                                </div>
+                                <img style={{ maxWidth: '75%', zIndex: '20' }} src={require("assets/logo/fix/done6.png").default}></img>
+                            </div>
+
+                           
+
+
+                            
+
+                            <div class="animated_badge animated_badge_1 hide">
+                                <div class="animated_stars">
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut yellow"></div>
+                                    <div class="animated_star plus"></div>
+                                    <div class="animated_star donut"></div>
+                                    <div class="animated_star plus yellow"></div>
+                                </div>
+                                <img style={{ maxWidth: '69%', zIndex: '20' }} src={require("assets/logo/fix/done10.png").default}></img>
                             </div>
 
                             <div class="animated_badge animated_badge_1 hide">
@@ -339,16 +342,7 @@ function Contacts() {
                                 </div>
                                 <img style={{ maxWidth: '75%', zIndex: '20' }} src={require("assets/logo/fix/done13.png").default}></img>
                             </div>
-                            <div class="animated_badge animated_badge_1 hide">
-                                <div class="animated_stars">
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut yellow"></div>
-                                    <div class="animated_star plus"></div>
-                                    <div class="animated_star donut"></div>
-                                    <div class="animated_star plus yellow"></div>
-                                </div>
-                                <img style={{ maxWidth: '75%', zIndex: '20' }} src={require("assets/logo/fix/done14.png").default}></img>
-                            </div>
+                            
                         </div>
 
                     </Col>

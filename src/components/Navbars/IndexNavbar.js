@@ -65,7 +65,8 @@ function IndexNavbar() {
           }}
         />
       ) : null}
-      <Navbar className={"fixed-top " + navbarColor} expand="lg" color="info">
+      <Navbar className={"fixed-top " + navbarColor} expand="lg" color="white">
+    
         <Container>
           <div className="navbar-translate">
             <NavbarBrand
@@ -74,7 +75,12 @@ function IndexNavbar() {
               id="navbar-brand"
               style={{ fontWeight: 'bold' }}
             >
-              IJCST UPNVJ 2022
+              <img
+                alt="..."
+                className="n-logo"
+                src={require("assets/img/logoIJCST.png").default}
+                width="30%"
+              ></img>
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
               Designed by Engineering Faculty UPN Veteran Jakarta

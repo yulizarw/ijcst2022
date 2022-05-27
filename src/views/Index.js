@@ -48,8 +48,8 @@ function Index() {
         <IndexHeader />
         <div className="main">
         
-          <Tabsijcst />
           <AboutPage />
+          <Tabsijcst />
          
           <Contacts />
          
